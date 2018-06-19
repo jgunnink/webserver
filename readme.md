@@ -2,6 +2,8 @@
 
 This is a very simple implementation for serving files over http written in Go.
 
+Stolen from: https://gist.github.com/paulmach/7271283
+
 You can either download the binary or you can clone and compile yourself.
 
 It can be accessed via port 8080
